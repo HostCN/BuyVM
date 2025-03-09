@@ -1,0 +1,416 @@
+{
+    "products": {
+        "测试LV RYZEN KVM 512MB": {
+            "notify": true,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "测试LV RYZEN KVM 1GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "测试LV RYZEN KVM 2GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "测试LV RYZEN KVM 4GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "测试LV RYZEN KVM 8GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "测试LV RYZEN KVM 12GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "测试LV RYZEN KVM 16GB": {
+            "notify": false,
+            "remark": "测试"
+        },
+        "测试LV RYZEN KVM 20GB": {
+            "notify": false,
+            "remark": "测试"
+        },
+        "测试LV RYZEN KVM 24GB": {
+            "notify": false,
+            "remark": "测试"
+        },
+        "测试LV RYZEN KVM 28GB": {
+            "notify": false,
+            "remark": "测试"
+        },
+        "测试LV RYZEN KVM 32GB": {
+            "notify": false,
+            "remark": "测试"
+        },
+        "LV Block Storage Slab - 256GB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LV Block Storage Slab - 512GB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LV Block Storage Slab - 1TB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LV Block Storage Slab - 2TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LV Block Storage Slab - 3TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LV Block Storage Slab - 4TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LV Block Storage Slab - 5TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LV Block Storage Slab - 6TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LV Block Storage Slab - 7TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LV Block Storage Slab - 8TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LV Block Storage Slab - 9TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LV Block Storage Slab - 10TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY RYZEN KVM 512MB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "NY RYZEN KVM 1GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "NY RYZEN KVM 2GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "NY RYZEN KVM 4GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "NY RYZEN KVM 8GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "NY RYZEN KVM 12GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "NY RYZEN KVM 16GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "NY RYZEN KVM 20GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "NY RYZEN KVM 24GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "NY RYZEN KVM 28GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "NY RYZEN KVM 32GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LV RYZEN KVM 512MB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LV RYZEN KVM 1GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LV RYZEN KVM 2GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LV RYZEN KVM 4GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LV RYZEN KVM 8GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LV RYZEN KVM 12GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LV RYZEN KVM 16GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LV RYZEN KVM 20GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LV RYZEN KVM 24GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LV RYZEN KVM 28GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LV RYZEN KVM 32GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "MIA Block Storage Slab - 256GB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA Block Storage Slab - 512GB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA Block Storage Slab - 1TB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA Block Storage Slab - 2TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA Block Storage Slab - 3TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA Block Storage Slab - 4TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA Block Storage Slab - 5TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA Block Storage Slab - 6TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA Block Storage Slab - 7TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA Block Storage Slab - 8TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA Block Storage Slab - 9TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA Block Storage Slab - 10TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "MIA RYZEN KVM 512MB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "MIA RYZEN KVM 1GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "MIA RYZEN KVM 2GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "MIA RYZEN KVM 4GB": {
+            "notify": true,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "MIA RYZEN KVM 8GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "MIA RYZEN KVM 12GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "MIA RYZEN KVM 16GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "MIA RYZEN KVM 20GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "MIA RYZEN KVM 24GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "MIA RYZEN KVM 28GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "MIA RYZEN KVM 32GB": {
+            "notify": false,
+            "remark": "审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LU RYZEN KVM 512MB": {
+            "notify": true,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LU RYZEN KVM 1GB": {
+            "notify": true,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LU RYZEN KVM 2GB": {
+            "notify": true,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LU RYZEN KVM 4GB": {
+            "notify": true,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LU RYZEN KVM 8GB": {
+            "notify": false,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LU RYZEN KVM 12GB": {
+            "notify": false,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LU RYZEN KVM 16GB": {
+            "notify": false,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LU RYZEN KVM 20GB": {
+            "notify": false,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LU RYZEN KVM 24GB": {
+            "notify": false,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LU RYZEN KVM 28GB": {
+            "notify": false,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "LU RYZEN KVM 32GB": {
+            "notify": false,
+            "remark": "*不受DMCA受欧洲法律管辖,抗投诉*\n审核严格,注册信息真实点,下单时不要使用代理，首次购买建议使用支付宝"
+        },
+        "NY Block Storage Slab - 256GB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY Block Storage Slab - 512GB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY Block Storage Slab - 1TB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY Block Storage Slab - 2TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY Block Storage Slab - 3TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY Block Storage Slab - 4TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY Block Storage Slab - 5TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY Block Storage Slab - 6TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY Block Storage Slab - 7TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY Block Storage Slab - 8TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY Block Storage Slab - 9TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "NY Block Storage Slab - 10TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 256GB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 512GB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 1TB": {
+            "notify": true,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 2TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 3TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 4TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 5TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 6TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 7TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 8TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 9TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        },
+        "LU Block Storage Slab - 10TB": {
+            "notify": false,
+            "remark": "*储块无法单独使用，需挂载相应区域的VPS上*"
+        }
+    }
+}
